@@ -5,7 +5,8 @@
 .wrapper
 {
 	padding:10px 50px 5px 50px;
-	width=900px;
+	width:800px;
+	/* changed from 900 to 800 px by hardik0546 */
 	text-align:justify;
 }
 .dark
